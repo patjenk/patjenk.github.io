@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PatJenk.com</title>
-    <link>/</link>
+    <link>/index.xml</link>
     <description>Recent content on PatJenk.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Patrick Jenkins, All rights reserved</copyright>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
